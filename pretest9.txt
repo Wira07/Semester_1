@@ -1,0 +1,8 @@
+fungsi atau function di bahasa C/C++ ialah pengelompokan intruksi yang dimana fungsi tersebut bisa menyelesaikan sebuah permasalahan dan memiliki nama variabelnya.
+
+int namafunction(string fullname)
+{
+return namafunction();
+}
+
+perbedaan antara void main dengan int main adalah fungsi void sebuah fungsi yang tidak memiliki nilai yang dikembalikan (return) sementara fungsi dari int main() ialah fungsi sebuah fungsi yang memiliki nilai yang dikembalikan (return)
